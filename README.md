@@ -28,3 +28,8 @@ Built by **Blaise Pascual** (Veteran & former Marine Corps officer, senior full-
 - **Web Factory Studio:** [https://www.paladinfront.com/web-factory](https://www.paladinfront.com/web-factory)
 - **Phone / SMS:** `910-325-2161`
 - **Email:** `inbox@blaisep.com`
+
+---
+
+## 🌟 Featured In
+- **[Awesome Money-Making & Business MCP Servers](https://github.com/AGI-CEO/awesome-money-making-mcp-servers)** — Ranked **#1** in the curated directory of 58+ revenue-generating MCP servers for agencies, B2B sales, SEO/GEO, paid ads, and social media automation.
