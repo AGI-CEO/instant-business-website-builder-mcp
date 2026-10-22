@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AGI-CEO/instant-business-website-builder-mcp",
+  "title": "Instant Business Website Builder & Next.js Generator",
+  "description": "The easiest way to build, preview, and launch a live business website in 60 seconds ($0 setup).",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.paladinfront.com/web-factory",
+  "repository": {
+    "url": "https://github.com/AGI-CEO/instant-business-website-builder-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.paladinfront.com/api/web-factory/mcp"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "instant-business-website-builder",
+  "version": "1.0.0",
+  "description": "The easiest way to build, preview, and launch a live business website in 60 seconds. Generates an interactive Next.js website preview URL from plain English with $0 setup.",
+  "author": {
+    "name": "Blaise Pascual",
+    "email": "inbox@blaisep.com",
+    "url": "https://www.paladinfront.com/web-factory"
+  },
+  "homepage": "https://www.paladinfront.com/web-factory",
+  "repository": "https://github.com/AGI-CEO/instant-business-website-builder-mcp",
+  "license": "MIT",
+  "keywords": [
+    "website-builder",
+    "nextjs",
+    "instant-website",
+    "small-business-website",
+    "landing-page-generator",
+    "web-design",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
